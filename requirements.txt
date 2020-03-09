@@ -1,0 +1,10 @@
+gunicorn
+Flask==1.1.1
+isort==4.3.21
+itsdangerous==1.1.0
+jedi==0.16.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+
+
+Werkzeug==1.0.0
